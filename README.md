@@ -1,4 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient=0:BDFFF3,100:56CCF2&height=250&section=header&text=Minsu%20Cho&fontSize=70" />
+
+
+<h3 align="center">😃 Me</h3>
+
+<p align="center">
+<a href="mailto:mfblade2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
+<a href="https://torte.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp 
+</p>
+
+
+--------------------------------------------
+
 
 <h3 align="center">🛠 Skils</h3>
 
@@ -9,13 +21,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 <p/>
 
+--------------------------------------------
 
-<h3 align="center">😃 Me</h3>
-
-<p align="center">
-<a href="mailto:mfblade2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
-<a href="https://torte.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp 
-</p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mim-mel&show_icons=true">
