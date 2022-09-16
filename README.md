@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient=0:BDFFF3,100:56CCF2&height=250&section=header&text=Minsu%20Cho&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient=0:BDFFF3,100:56CCF2&height=200&section=header&text=Minsu%20Cho&fontSize=60" />
 
 
 <h3 align="center">😃 Me</h3>
