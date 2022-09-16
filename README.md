@@ -1,4 +1,5 @@
-<h2 align="center">프론트엔드 개발자 조민수입니다</h2>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 <h3 align="center">🛠 Skils</h3>
 
 <p align="center">
@@ -16,3 +17,6 @@
 <a href="https://torte.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp 
 </p>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mim-mel&show_icons=true">
+</div>
