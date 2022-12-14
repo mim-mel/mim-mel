@@ -23,6 +23,9 @@
 <br/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/emotion-f988e7?style=flat-square&logo=emotion&logoColor=white"/></a>&nbsp 
+<br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Recoil-ffaf24?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp 
 <p/>
 
 
