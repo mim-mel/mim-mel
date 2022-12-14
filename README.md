@@ -26,6 +26,9 @@
 <br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Recoil-ffaf24?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp 
+<br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 <p/>
 
 
